@@ -5,12 +5,13 @@ class Solution {
         for(int i=1;i<arr.length;i++){
             arr[i]=Math.min(arr[i],arr[i-1]+1);
         }
-        int max=0;
-        for(int i=0;i<arr.length;i++){
-            if(max<arr[i]){
-                max=arr[i];
-            }
-        }
-        return max;
+        // int max=0;
+        // for(int i=0;i<arr.length;i++){
+        //     if(max<arr[i]){
+        //         max=arr[i];
+        //     }
+        // }
+        // return max;
+        return arr[arr.length-1];
     }
 }
