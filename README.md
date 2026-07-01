@@ -85,6 +85,11 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/JainishaJain-09/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/JainishaJain-09/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
