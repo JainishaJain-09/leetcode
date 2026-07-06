@@ -9,6 +9,7 @@
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
