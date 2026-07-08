@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -43,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -55,6 +58,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
@@ -120,6 +124,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## String
@@ -143,4 +148,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
