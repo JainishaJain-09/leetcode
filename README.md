@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JainishaJain-09/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/JainishaJain-09/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@
 | [0796-rotate-string](https://github.com/JainishaJain-09/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JainishaJain-09/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
