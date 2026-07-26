@@ -20,6 +20,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/JainishaJain-09/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/JainishaJain-09/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -46,6 +47,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -71,6 +73,7 @@
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JainishaJain-09/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
@@ -131,6 +134,7 @@
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JainishaJain-09/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/JainishaJain-09/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
