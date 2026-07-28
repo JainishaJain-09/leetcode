@@ -160,6 +160,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JainishaJain-09/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -180,6 +181,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JainishaJain-09/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JainishaJain-09/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
