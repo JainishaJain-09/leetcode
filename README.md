@@ -35,6 +35,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JainishaJain-09/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/JainishaJain-09/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -248,4 +249,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->
