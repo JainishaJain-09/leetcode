@@ -37,6 +37,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/JainishaJain-09/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JainishaJain-09/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JainishaJain-09/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
