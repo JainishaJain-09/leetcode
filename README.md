@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JainishaJain-09/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JainishaJain-09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -134,6 +135,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JainishaJain-09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
