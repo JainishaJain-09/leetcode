@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/JainishaJain-09/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JainishaJain-09/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
