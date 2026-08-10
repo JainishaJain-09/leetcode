@@ -271,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/JainishaJain-09/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/JainishaJain-09/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JainishaJain-09/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
