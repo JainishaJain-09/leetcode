@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/JainishaJain-09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -249,6 +251,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/JainishaJain-09/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
