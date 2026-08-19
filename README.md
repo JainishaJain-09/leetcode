@@ -298,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/JainishaJain-09/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
