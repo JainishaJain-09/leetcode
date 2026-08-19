@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/JainishaJain-09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JainishaJain-09/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JainishaJain-09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -292,4 +294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/JainishaJain-09/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
