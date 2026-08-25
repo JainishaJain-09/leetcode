@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/JainishaJain-09/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -196,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
@@ -207,6 +209,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -243,6 +246,7 @@
 | [0141-linked-list-cycle](https://github.com/JainishaJain-09/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JainishaJain-09/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -327,4 +331,8 @@
 | [1148-article-views-i](https://github.com/JainishaJain-09/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/JainishaJain-09/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/JainishaJain-09/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
