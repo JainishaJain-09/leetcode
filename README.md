@@ -199,6 +199,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/JainishaJain-09/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -232,6 +233,7 @@
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/JainishaJain-09/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JainishaJain-09/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -256,6 +258,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/JainishaJain-09/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -337,4 +341,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
