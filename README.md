@@ -233,6 +233,7 @@
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/JainishaJain-09/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/JainishaJain-09/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JainishaJain-09/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -285,6 +286,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/JainishaJain-09/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/JainishaJain-09/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -345,4 +347,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/JainishaJain-09/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/JainishaJain-09/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
