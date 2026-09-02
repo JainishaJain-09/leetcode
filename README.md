@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/JainishaJain-09/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JainishaJain-09/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JainishaJain-09/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -210,6 +211,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -348,6 +350,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
