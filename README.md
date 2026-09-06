@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JainishaJain-09/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/JainishaJain-09/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JainishaJain-09/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
