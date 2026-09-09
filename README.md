@@ -143,6 +143,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JainishaJain-09/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/JainishaJain-09/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -376,4 +377,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/JainishaJain-09/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
