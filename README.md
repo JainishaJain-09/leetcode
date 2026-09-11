@@ -62,6 +62,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/JainishaJain-09/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -91,6 +92,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JainishaJain-09/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/JainishaJain-09/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JainishaJain-09/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
@@ -163,6 +165,7 @@
 | [2427-number-of-common-factors](https://github.com/JainishaJain-09/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JainishaJain-09/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,4 +391,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1922-count-good-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
