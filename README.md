@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JainishaJain-09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/JainishaJain-09/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JainishaJain-09/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -228,6 +229,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -401,5 +403,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
