@@ -22,6 +22,7 @@
 | [0074-search-a-2d-matrix](https://github.com/JainishaJain-09/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JainishaJain-09/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -339,6 +340,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -413,4 +415,5 @@
 | [0040-combination-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
