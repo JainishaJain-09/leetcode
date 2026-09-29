@@ -367,6 +367,7 @@
 | [0231-power-of-two](https://github.com/JainishaJain-09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/JainishaJain-09/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
