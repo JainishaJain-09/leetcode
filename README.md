@@ -36,6 +36,7 @@
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -365,6 +366,7 @@
 | [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/JainishaJain-09/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JainishaJain-09/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
