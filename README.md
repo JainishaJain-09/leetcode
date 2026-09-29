@@ -159,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/JainishaJain-09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/JainishaJain-09/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JainishaJain-09/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -362,6 +363,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0137-single-number-ii/) | Medium |
