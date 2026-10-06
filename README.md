@@ -14,6 +14,7 @@
 | [0045-jump-game-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/JainishaJain-09/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/JainishaJain-09/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/JainishaJain-09/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JainishaJain-09/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -458,9 +459,14 @@
 | [0039-combination-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/JainishaJain-09/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JainishaJain-09/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/JainishaJain-09/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
