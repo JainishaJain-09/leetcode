@@ -76,6 +76,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/JainishaJain-09/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JainishaJain-09/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JainishaJain-09/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3731-find-missing-elements](https://github.com/JainishaJain-09/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -188,6 +189,7 @@
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/JainishaJain-09/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JainishaJain-09/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JainishaJain-09/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
