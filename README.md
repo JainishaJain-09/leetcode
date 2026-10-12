@@ -478,6 +478,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -494,12 +495,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
