@@ -494,6 +494,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
@@ -502,6 +503,7 @@
 | [0100-same-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -516,6 +518,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -526,6 +529,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
