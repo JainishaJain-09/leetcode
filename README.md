@@ -74,6 +74,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JainishaJain-09/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/JainishaJain-09/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JainishaJain-09/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/JainishaJain-09/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/JainishaJain-09/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JainishaJain-09/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -231,6 +232,7 @@
 | [1539-kth-missing-positive-number](https://github.com/JainishaJain-09/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JainishaJain-09/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JainishaJain-09/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JainishaJain-09/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JainishaJain-09/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JainishaJain-09/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/JainishaJain-09/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JainishaJain-09/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
