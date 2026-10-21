@@ -16,29 +16,31 @@
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
         if(root==null) return 0;
-        Queue<Pair<TreeNode,Integer>> q=new LinkedList<>();
-        q.add(new Pair<>(root,0));
+        Queue<TreeNode> q=new LinkedList<>();
+        Queue<Integer> index=new LinkedList<>();
+        q.add(root);
+        index.add(0);
         int max=0;
         while(!q.isEmpty()){
             int size=q.size();
-            int min=q.peek().getValue();
+            int min=index.peek();
             int first=0,last=0;
             for(int i=0;i<size;i++){
-                Pair<TreeNode,Integer> p=q.poll();
-                TreeNode node=p.getKey();
-                int idx=p.getValue()-min;
+                TreeNode node=q.poll();
+                int idx=index.poll()-min;
                 if(i==0) first=idx;
                 if(i==size-1) last=idx;
                 if(node.left!=null){
-                    q.add(new Pair<>(node.left,2*idx+1));
+                    q.add(node.left);
+                    index.add(2*idx+1);
                 }
                 if(node.right!=null){
-                    q.add(new Pair<>(node.right,2*idx+2));
+                    q.add(node.right);
+                    index.add(2*idx+2);
                 }
             }
             max=Math.max(max,last-first+1);
         }
-
         return max;
     }
 }
