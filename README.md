@@ -36,6 +36,7 @@
 | [0216-combination-sum-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -100,6 +101,7 @@
 | [0205-isomorphic-strings](https://github.com/JainishaJain-09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -139,6 +141,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/JainishaJain-09/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -268,6 +271,7 @@
 | [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/JainishaJain-09/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/JainishaJain-09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -546,4 +550,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JainishaJain-09/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
