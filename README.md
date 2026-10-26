@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/JainishaJain-09/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JainishaJain-09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -224,6 +225,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/JainishaJain-09/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JainishaJain-09/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -345,6 +347,7 @@
 | [0118-pascals-triangle](https://github.com/JainishaJain-09/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JainishaJain-09/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JainishaJain-09/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/JainishaJain-09/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JainishaJain-09/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -574,4 +577,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JainishaJain-09/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
