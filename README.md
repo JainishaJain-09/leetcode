@@ -534,6 +534,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/JainishaJain-09/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +548,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/JainishaJain-09/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
