@@ -98,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JainishaJain-09/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/JainishaJain-09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JainishaJain-09/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JainishaJain-09/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -252,6 +253,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JainishaJain-09/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JainishaJain-09/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -306,6 +308,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JainishaJain-09/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/JainishaJain-09/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/JainishaJain-09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/JainishaJain-09/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
