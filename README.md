@@ -61,6 +61,7 @@
 | [0860-lemonade-change](https://github.com/JainishaJain-09/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/JainishaJain-09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JainishaJain-09/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/JainishaJain-09/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JainishaJain-09/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -117,6 +118,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JainishaJain-09/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/JainishaJain-09/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/JainishaJain-09/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -166,6 +168,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JainishaJain-09/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JainishaJain-09/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JainishaJain-09/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
