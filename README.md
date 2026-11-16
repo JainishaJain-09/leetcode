@@ -337,6 +337,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JainishaJain-09/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JainishaJain-09/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Two Pointers
@@ -391,6 +392,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JainishaJain-09/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
