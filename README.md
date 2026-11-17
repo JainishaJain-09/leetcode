@@ -53,6 +53,7 @@
 | [0455-assign-cookies](https://github.com/JainishaJain-09/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/JainishaJain-09/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -120,6 +121,7 @@
 | [0389-find-the-difference](https://github.com/JainishaJain-09/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JainishaJain-09/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/JainishaJain-09/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JainishaJain-09/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -170,6 +172,7 @@
 | [0238-product-of-array-except-self](https://github.com/JainishaJain-09/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JainishaJain-09/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JainishaJain-09/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/JainishaJain-09/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -192,6 +195,7 @@
 | [0204-count-primes](https://github.com/JainishaJain-09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/JainishaJain-09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/JainishaJain-09/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JainishaJain-09/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/JainishaJain-09/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JainishaJain-09/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -625,4 +629,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/JainishaJain-09/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
