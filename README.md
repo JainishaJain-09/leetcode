@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/JainishaJain-09/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/JainishaJain-09/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/JainishaJain-09/leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/JainishaJain-09/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/JainishaJain-09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -292,6 +293,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/JainishaJain-09/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/JainishaJain-09/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/JainishaJain-09/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -352,6 +354,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/JainishaJain-09/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/JainishaJain-09/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JainishaJain-09/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JainishaJain-09/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
