@@ -534,6 +534,7 @@
 | [0051-n-queens](https://github.com/JainishaJain-09/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/JainishaJain-09/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JainishaJain-09/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/JainishaJain-09/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/JainishaJain-09/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -552,6 +553,7 @@
 | [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -593,6 +595,7 @@
 | [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -615,6 +618,7 @@
 | [0110-balanced-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/JainishaJain-09/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/JainishaJain-09/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/JainishaJain-09/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JainishaJain-09/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
