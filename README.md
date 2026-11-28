@@ -481,6 +481,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JainishaJain-09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/JainishaJain-09/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +572,7 @@
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/JainishaJain-09/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,10 +588,12 @@
 | [0513-find-bottom-left-tree-value](https://github.com/JainishaJain-09/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/JainishaJain-09/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/JainishaJain-09/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/JainishaJain-09/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/JainishaJain-09/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
